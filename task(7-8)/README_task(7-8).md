@@ -1,4 +1,4 @@
-# Task 7-8: OpenAI Function Calling을 활용한 날씨 챗봇
+# Task(7-8) OpenAI Function Calling을 활용한 날씨 챗봇
 
 이 폴더는 OpenAI의 Function Calling 기능을 활용하여 날씨 정보를 제공하는 챗봇을 구현한 프로젝트입니다.
 
