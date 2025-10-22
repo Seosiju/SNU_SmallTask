@@ -1,0 +1,314 @@
+{
+  "drinks": [
+    {
+      "id": "d_ame",
+      "name_kr": "아메리카노",
+      "name_en": "Americano",
+      "sizes": {
+        "S": 3500,
+        "M": 4000,
+        "L": 4500
+      },
+      "notes": "진한 에스프레소에 물을 더한 가장 기본 커피",
+      "pairing": [
+        "플레인 크루아상"
+      ],
+      "tags": [
+        "coffee",
+        "americano",
+        "진함:중"
+      ]
+    },
+    {
+      "id": "d_latte",
+      "name_kr": "카페 라떼",
+      "name_en": "Cafe Latte",
+      "sizes": {
+        "S": 4000,
+        "M": 4500,
+        "L": 5000
+      },
+      "notes": "에스프레소+우유 부드러운 밸런스",
+      "pairing": [
+        "치즈 케이크"
+      ],
+      "tags": [
+        "coffee",
+        "latte",
+        "진함:하"
+      ]
+    },
+    {
+      "id": "d_vanilla",
+      "name_kr": "바닐라 라떼",
+      "name_en": "Vanilla Latte",
+      "sizes": {
+        "S": 4500,
+        "M": 5000,
+        "L": 5500
+      },
+      "notes": "인기 메뉴, 바닐라 시럽의 달콤함",
+      "pairing": [
+        "마들렌",
+        "초코칩 쿠키"
+      ],
+      "tags": [
+        "coffee",
+        "latte",
+        "sweet",
+        "진함:하"
+      ]
+    },
+    {
+      "id": "d_capp",
+      "name_kr": "카푸치노",
+      "name_en": "Cappuccino",
+      "sizes": {
+        "S": 4000,
+        "M": 4500,
+        "L": 5000
+      },
+      "notes": "우유 거품이 풍부해 질감이 좋음",
+      "pairing": [
+        "아몬드 크루아상"
+      ],
+      "tags": [
+        "coffee",
+        "foam",
+        "진함:중"
+      ]
+    },
+    {
+      "id": "d_coldbrew",
+      "name_kr": "콜드 브루",
+      "name_en": "Cold Brew",
+      "sizes": {
+        "S": 4300,
+        "M": 4800,
+        "L": 5300
+      },
+      "notes": "산미 깔끔, 얼음과 함께 청량감",
+      "pairing": [
+        "플레인 크루아상"
+      ],
+      "tags": [
+        "coffee",
+        "cold",
+        "acidity",
+        "진함:중상"
+      ]
+    },
+    {
+      "id": "d_dolce",
+      "name_kr": "돌체 라떼",
+      "name_en": "Dolce Latte",
+      "sizes": {
+        "S": 4700,
+        "M": 5200,
+        "L": 5700
+      },
+      "notes": "연유 기반 달콤한 라떼",
+      "pairing": [
+        "티라미수"
+      ],
+      "tags": [
+        "coffee",
+        "latte",
+        "very_sweet",
+        "진함:하"
+      ]
+    },
+    {
+      "id": "d_espresso",
+      "name_kr": "에스프레소",
+      "name_en": "Espresso",
+      "sizes": {
+        "S": 3500
+      },
+      "notes": "가장 진한 커피 추출",
+      "pairing": [],
+      "tags": [
+        "coffee",
+        "espresso",
+        "진함:상"
+      ]
+    },
+    {
+      "id": "d_matcha",
+      "name_kr": "녹차 라떼",
+      "name_en": "Green Tea Latte",
+      "sizes": {
+        "S": 4300,
+        "M": 4800,
+        "L": 5300
+      },
+      "notes": "말차 풍미",
+      "pairing": [
+        "마카롱"
+      ],
+      "tags": [
+        "noncoffee",
+        "latte",
+        "sweet"
+      ]
+    },
+    {
+      "id": "d_choc",
+      "name_kr": "초콜릿 라떼",
+      "name_en": "Chocolate Latte",
+      "sizes": {
+        "S": 4300,
+        "M": 4800,
+        "L": 5300
+      },
+      "notes": "달콤 진한 초콜릿",
+      "pairing": [
+        "아몬드 크루아상",
+        "티라미수"
+      ],
+      "tags": [
+        "noncoffee",
+        "sweet"
+      ]
+    },
+    {
+      "id": "d_straw",
+      "name_kr": "딸기 스무디",
+      "name_en": "Strawberry Smoothie",
+      "sizes": {
+        "M": 5500,
+        "L": 6000
+      },
+      "notes": "과일 기반 블렌디드",
+      "pairing": [
+        "마카롱"
+      ],
+      "tags": [
+        "noncoffee",
+        "fruit",
+        "sweet"
+      ]
+    },
+    {
+      "id": "d_mango",
+      "name_kr": "망고 스무디",
+      "name_en": "Mango Smoothie",
+      "sizes": {
+        "M": 5500,
+        "L": 6000
+      },
+      "notes": "열대과일 상큼함",
+      "pairing": [
+        "마들렌"
+      ],
+      "tags": [
+        "noncoffee",
+        "fruit",
+        "sweet"
+      ]
+    }
+  ],
+  "desserts": [
+    {
+      "id": "ds_plain",
+      "name_kr": "플레인 크루아상",
+      "price": 3000,
+      "notes": "버터 풍미"
+    },
+    {
+      "id": "ds_choc",
+      "name_kr": "초콜릿 크루아상",
+      "price": 3500,
+      "notes": "초콜릿 함유"
+    },
+    {
+      "id": "ds_almond",
+      "name_kr": "아몬드 크루아상",
+      "price": 3500,
+      "notes": "아몬드 토핑"
+    },
+    {
+      "id": "ds_madeleine",
+      "name_kr": "마들렌",
+      "price": 2500,
+      "notes": "버터향"
+    },
+    {
+      "id": "ds_cookie",
+      "name_kr": "초콜릿 칩 쿠키",
+      "price": 2800,
+      "notes": "초코칩 가득"
+    },
+    {
+      "id": "ds_macaron",
+      "name_kr": "마카롱",
+      "price": 3000,
+      "notes": "여러 맛"
+    },
+    {
+      "id": "ds_cheese",
+      "name_kr": "치즈 케이크",
+      "price": 6000,
+      "notes": "라떼와 찰떡"
+    },
+    {
+      "id": "ds_tiramisu",
+      "name_kr": "티라미수",
+      "price": 6000,
+      "notes": "커피 디저트"
+    }
+  ],
+  "options": {
+    "extra_shot": {
+      "name_kr": "샷 추가",
+      "price": 500,
+      "applies_to": "coffee"
+    },
+    "syrup_vanilla": {
+      "name_kr": "바닐라 시럽",
+      "price": 300,
+      "applies_to": "any"
+    },
+    "syrup_caramel": {
+      "name_kr": "캐러멜 시럽",
+      "price": 300,
+      "applies_to": "any"
+    },
+    "syrup_hazelnut": {
+      "name_kr": "헤이즐넛 시럽",
+      "price": 300,
+      "applies_to": "any"
+    },
+    "milk_lowfat": {
+      "name_kr": "저지방 우유",
+      "price": 0,
+      "applies_to": "latte_family"
+    },
+    "milk_soy": {
+      "name_kr": "두유",
+      "price": 500,
+      "applies_to": "latte_family"
+    },
+    "milk_almond": {
+      "name_kr": "아몬드 브리즈",
+      "price": 700,
+      "applies_to": "latte_family"
+    },
+    "whipped": {
+      "name_kr": "휘핑 크림",
+      "price": 500,
+      "applies_to": "choc_family"
+    },
+    "takeout_disc": {
+      "name_kr": "테이크아웃 할인",
+      "price": -500,
+      "applies_to": "any"
+    }
+  },
+  "recommendations": [
+    "바닐라 라떼는 가장 인기있는 메뉴입니다.",
+    "치즈 케이크는 카페 라떼와 잘 어울립니다.",
+    "따뜻한 아메리카노+플레인 크루아상 조합 추천",
+    "마카롱은 달콤 음료와 잘 어울려요."
+  ]
+}

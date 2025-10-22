@@ -1,0 +1,178 @@
+{
+  "meta": [
+    {
+      "type": "drink",
+      "id": "d_ame",
+      "name": "아메리카노"
+    },
+    {
+      "type": "drink",
+      "id": "d_latte",
+      "name": "카페 라떼"
+    },
+    {
+      "type": "drink",
+      "id": "d_vanilla",
+      "name": "바닐라 라떼"
+    },
+    {
+      "type": "drink",
+      "id": "d_capp",
+      "name": "카푸치노"
+    },
+    {
+      "type": "drink",
+      "id": "d_coldbrew",
+      "name": "콜드 브루"
+    },
+    {
+      "type": "drink",
+      "id": "d_dolce",
+      "name": "돌체 라떼"
+    },
+    {
+      "type": "drink",
+      "id": "d_espresso",
+      "name": "에스프레소"
+    },
+    {
+      "type": "drink",
+      "id": "d_matcha",
+      "name": "녹차 라떼"
+    },
+    {
+      "type": "drink",
+      "id": "d_choc",
+      "name": "초콜릿 라떼"
+    },
+    {
+      "type": "drink",
+      "id": "d_straw",
+      "name": "딸기 스무디"
+    },
+    {
+      "type": "drink",
+      "id": "d_mango",
+      "name": "망고 스무디"
+    },
+    {
+      "type": "dessert",
+      "id": "ds_plain",
+      "name": "플레인 크루아상"
+    },
+    {
+      "type": "dessert",
+      "id": "ds_choc",
+      "name": "초콜릿 크루아상"
+    },
+    {
+      "type": "dessert",
+      "id": "ds_almond",
+      "name": "아몬드 크루아상"
+    },
+    {
+      "type": "dessert",
+      "id": "ds_madeleine",
+      "name": "마들렌"
+    },
+    {
+      "type": "dessert",
+      "id": "ds_cookie",
+      "name": "초콜릿 칩 쿠키"
+    },
+    {
+      "type": "dessert",
+      "id": "ds_macaron",
+      "name": "마카롱"
+    },
+    {
+      "type": "dessert",
+      "id": "ds_cheese",
+      "name": "치즈 케이크"
+    },
+    {
+      "type": "dessert",
+      "id": "ds_tiramisu",
+      "name": "티라미수"
+    },
+    {
+      "type": "option",
+      "id": "extra_shot",
+      "name": "샷 추가"
+    },
+    {
+      "type": "option",
+      "id": "syrup_vanilla",
+      "name": "바닐라 시럽"
+    },
+    {
+      "type": "option",
+      "id": "syrup_caramel",
+      "name": "캐러멜 시럽"
+    },
+    {
+      "type": "option",
+      "id": "syrup_hazelnut",
+      "name": "헤이즐넛 시럽"
+    },
+    {
+      "type": "option",
+      "id": "milk_lowfat",
+      "name": "저지방 우유"
+    },
+    {
+      "type": "option",
+      "id": "milk_soy",
+      "name": "두유"
+    },
+    {
+      "type": "option",
+      "id": "milk_almond",
+      "name": "아몬드 브리즈"
+    },
+    {
+      "type": "option",
+      "id": "whipped",
+      "name": "휘핑 크림"
+    },
+    {
+      "type": "option",
+      "id": "takeout_disc",
+      "name": "테이크아웃 할인"
+    },
+    {
+      "type": "recommendations"
+    }
+  ],
+  "chunks": [
+    "[DRINK] 아메리카노 (Americano) | sizes: S:3500원, M:4000원, L:4500원 | notes: 진한 에스프레소에 물을 더한 가장 기본 커피 | pairing: 플레인 크루아상 | tags:coffee,americano,진함:중",
+    "[DRINK] 카페 라떼 (Cafe Latte) | sizes: S:4000원, M:4500원, L:5000원 | notes: 에스프레소+우유 부드러운 밸런스 | pairing: 치즈 케이크 | tags:coffee,latte,진함:하",
+    "[DRINK] 바닐라 라떼 (Vanilla Latte) | sizes: S:4500원, M:5000원, L:5500원 | notes: 인기 메뉴, 바닐라 시럽의 달콤함 | pairing: 마들렌, 초코칩 쿠키 | tags:coffee,latte,sweet,진함:하",
+    "[DRINK] 카푸치노 (Cappuccino) | sizes: S:4000원, M:4500원, L:5000원 | notes: 우유 거품이 풍부해 질감이 좋음 | pairing: 아몬드 크루아상 | tags:coffee,foam,진함:중",
+    "[DRINK] 콜드 브루 (Cold Brew) | sizes: S:4300원, M:4800원, L:5300원 | notes: 산미 깔끔, 얼음과 함께 청량감 | pairing: 플레인 크루아상 | tags:coffee,cold,acidity,진함:중상",
+    "[DRINK] 돌체 라떼 (Dolce Latte) | sizes: S:4700원, M:5200원, L:5700원 | notes: 연유 기반 달콤한 라떼 | pairing: 티라미수 | tags:coffee,latte,very_sweet,진함:하",
+    "[DRINK] 에스프레소 (Espresso) | sizes: S:3500원 | notes: 가장 진한 커피 추출 | pairing:  | tags:coffee,espresso,진함:상",
+    "[DRINK] 녹차 라떼 (Green Tea Latte) | sizes: S:4300원, M:4800원, L:5300원 | notes: 말차 풍미 | pairing: 마카롱 | tags:noncoffee,latte,sweet",
+    "[DRINK] 초콜릿 라떼 (Chocolate Latte) | sizes: S:4300원, M:4800원, L:5300원 | notes: 달콤 진한 초콜릿 | pairing: 아몬드 크루아상, 티라미수 | tags:noncoffee,sweet",
+    "[DRINK] 딸기 스무디 (Strawberry Smoothie) | sizes: M:5500원, L:6000원 | notes: 과일 기반 블렌디드 | pairing: 마카롱 | tags:noncoffee,fruit,sweet",
+    "[DRINK] 망고 스무디 (Mango Smoothie) | sizes: M:5500원, L:6000원 | notes: 열대과일 상큼함 | pairing: 마들렌 | tags:noncoffee,fruit,sweet",
+    "[DESSERT] 플레인 크루아상 | price:3000원 | notes:버터 풍미",
+    "[DESSERT] 초콜릿 크루아상 | price:3500원 | notes:초콜릿 함유",
+    "[DESSERT] 아몬드 크루아상 | price:3500원 | notes:아몬드 토핑",
+    "[DESSERT] 마들렌 | price:2500원 | notes:버터향",
+    "[DESSERT] 초콜릿 칩 쿠키 | price:2800원 | notes:초코칩 가득",
+    "[DESSERT] 마카롱 | price:3000원 | notes:여러 맛",
+    "[DESSERT] 치즈 케이크 | price:6000원 | notes:라떼와 찰떡",
+    "[DESSERT] 티라미수 | price:6000원 | notes:커피 디저트",
+    "[OPTION] 샷 추가 | price:500원 | applies_to:coffee",
+    "[OPTION] 바닐라 시럽 | price:300원 | applies_to:any",
+    "[OPTION] 캐러멜 시럽 | price:300원 | applies_to:any",
+    "[OPTION] 헤이즐넛 시럽 | price:300원 | applies_to:any",
+    "[OPTION] 저지방 우유 | price:0원 | applies_to:latte_family",
+    "[OPTION] 두유 | price:500원 | applies_to:latte_family",
+    "[OPTION] 아몬드 브리즈 | price:700원 | applies_to:latte_family",
+    "[OPTION] 휘핑 크림 | price:500원 | applies_to:choc_family",
+    "[OPTION] 테이크아웃 할인 | price:-500원 | applies_to:any",
+    "[RECO] 바닐라 라떼는 가장 인기있는 메뉴입니다. | 치즈 케이크는 카페 라떼와 잘 어울립니다. | 따뜻한 아메리카노+플레인 크루아상 조합 추천 | 마카롱은 달콤 음료와 잘 어울려요."
+  ]
+}
